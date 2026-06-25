@@ -1,0 +1,5 @@
+paho-mqtt>=2.0
+flask>=3.0
+flask-restful>=0.3
+
+#Invoke-RestMethod -Uri "http://localhost:5000/config/room1" -Method Put -ContentType "application/json" -Body '{"k": 0.15}'
