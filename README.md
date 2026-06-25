@@ -31,7 +31,6 @@ The system adopts a hybrid and distributed architecture, illustrated in detail i
 
 ## Project Structure
 
-The project follows the **MVC / DTO** pattern typical of distributed IoT systems:
 
 ```
 IoT Progetto Smart Cafe/
